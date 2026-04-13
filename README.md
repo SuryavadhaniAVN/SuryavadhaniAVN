@@ -86,8 +86,8 @@ I’m open to:
 
 ## 📫 Contact Me
 
-- 📧 Email: [your email]
-- 💼 LinkedIn: [your linkedin link]
+- 📧 Email: surya06ammu@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/suryavadhani-ammu/
 
 ---
 
