@@ -20,7 +20,7 @@ Wrote interrupt-driven ATmega328P firmware that converts Pixhawk or RC-receiver 
 **Autonomous Underwater Vehicle — Team VAUV, VIT Vellore** (April 2024–March 2026)  
 Technical Lead of a 15-member team. Built the motion control stack on Pixhawk (ArduSub) through a Python MAVLink bridge ([AUV](https://github.com/SuryavadhaniAVN/AUV)), and worked on YOLOv8n gate detection running on a Jetson Orin Nano.
 
-**DES Block Cipher on FPGA** (October 2026)  
+**[DES Block Cipher on FPGA](https://github.com/SuryavadhaniAVN/DES-FPGA)** (October 2026)  
 Full DES cipher in Verilog: 16 Feistel rounds, key schedule, and S-boxes, verified in Icarus Verilog against standard test vectors. S-DES deployed on a Vicharak Shrike Lite (Renesas ForgeFPGA with an RP2040 host), with an on-chip self-check confirming correct output.
 
 **HPC Architecture Study — IIT Madras** (May–June 2025)  
